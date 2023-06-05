@@ -1,0 +1,1 @@
+hi, this is chapter 2 made with touch command in git bash. and opened it using start command in git bash.
